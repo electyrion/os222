@@ -19,3 +19,7 @@ ZCZC W02 100 L02 ZOOM meetings related
 ZCZC W02 73 L12 Assignment #02
 ZCZC W02 12 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 7 L42 TXT/mypubkey.txt related.
+ZCZC W02 30 L05 Quiz related including studying
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 20 L44 TXT/myscript.sh related.
+ZCZC W02 30 L81 Listening: Radio, Music, etc.
