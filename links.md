@@ -14,10 +14,13 @@ permalink: LINKS/
 
 # LINKS
 
-1. [Operating System Crash Course](https://www.educative.io/blog/operating-systems-crashcourse)<br>
+1. [Operating System Concept (TextBook)](- https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
+I found this book really helpful during this course. It helps me answer all the questions on weekly quiz. Read this book regularly and your grade will be fine.
+
+2. [Operating System Crash Course](https://www.educative.io/blog/operating-systems-crashcourse)<br>
 Help us understand the basic concept of operating system components and functions, start with the most basic kernel and ending with the more advanced topic of virtualization.
 
-2. [Continuous Patching](https://www.automox.com/blog/continuous-patching-good-cyber-hygiene)<br>
+3. [Continuous Patching](https://www.automox.com/blog/continuous-patching-good-cyber-hygiene)<br>
 Have you ever wonder why we need continuous patching to ensure the security of our system? The answer can be found in this site.
 
 <br>
