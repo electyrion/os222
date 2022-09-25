@@ -14,7 +14,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [Operating System Concept (TextBook)](- https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
+1. [Operating System Concept (TextBook)](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
 I found this book really helpful during this course. It helps me answer all the questions on weekly quiz. Read this book regularly and your grade will be fine.
 
 2. [Operating System Crash Course](https://www.educative.io/blog/operating-systems-crashcourse)<br>
