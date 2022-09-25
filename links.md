@@ -20,7 +20,10 @@ I found this book really helpful during this course. It helps me answer all the 
 2. [Operating System Crash Course](https://www.educative.io/blog/operating-systems-crashcourse)<br>
 Help us understand the basic concept of operating system components and functions, start with the most basic kernel and ending with the more advanced topic of virtualization.
 
-3. [Continuous Patching](https://www.automox.com/blog/continuous-patching-good-cyber-hygiene)<br>
+3. [Operating System: Crash Course Video](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
+If you are a visual learner, this video can make you understand the importance of operating system. Carrie Anne will explain to you the history of computer programming in the 1940s that runs program one at a time. 
+
+4. [Continuous Patching](https://www.automox.com/blog/continuous-patching-good-cyber-hygiene)<br>
 Have you ever wonder why we need continuous patching to ensure the security of our system? The answer can be found in this site.
 
 <br>
