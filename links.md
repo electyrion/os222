@@ -23,7 +23,13 @@ Help us understand the basic concept of operating system components and function
 3. [Operating System: Crash Course Video](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
 If you are a visual learner, this video can make you understand the importance of operating system. Carrie Anne will explain to you the history of computer programming in the 1940s that runs program one at a time. 
 
-4. [Continuous Patching](https://www.automox.com/blog/continuous-patching-good-cyber-hygiene)<br>
+4. [What is a Virtual Machine](https://www.vmware.com/topics/glossary/content/virtual-machine.html)
+A brief definition of a virtual machine for beginner.
+
+5. [How to Use VirtualBox](https://www.youtube.com/watch?v=sB_5fqiysi4)
+A beginners guide tutorial on how to use VirtualBox.
+
+6. [Continuous Patching](https://www.automox.com/blog/continuous-patching-good-cyber-hygiene)<br>
 Have you ever wonder why we need continuous patching to ensure the security of our system? The answer can be found in this site.
 
 <br>
