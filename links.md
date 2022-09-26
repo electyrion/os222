@@ -32,6 +32,9 @@ A beginners guide tutorial on how to use VirtualBox.
 6. [Continuous Patching](https://www.automox.com/blog/continuous-patching-good-cyber-hygiene)<br>
 Have you ever wonder why we need continuous patching to ensure the security of our system? The answer can be found in this site.
 
+7. [File System Interface PPT](https://staff.ui.ac.id/system/files/users/moningka/material/file-10b.pdf)<br>
+This is powerpoint file from OS course in the past. I think its better than our current powerpoint.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
