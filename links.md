@@ -24,7 +24,7 @@ Help us understand the basic concept of operating system components and function
 If you are a visual learner, this video can make you understand the importance of operating system. Carrie Anne will explain to you the history of computer programming in the 1940s that runs program one at a time. 
 
 4. [What is a Virtual Machine](https://www.vmware.com/topics/glossary/content/virtual-machine.html)
-A brief definition of a virtual machine for beginner.
+A brief definition of a virtual machine for beginner. This site explain the core concept of virtual machine thoroughly.
 
 5. [How to Use VirtualBox](https://www.youtube.com/watch?v=sB_5fqiysi4)
 A beginners guide tutorial on how to use VirtualBox.
