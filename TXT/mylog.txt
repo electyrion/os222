@@ -36,3 +36,4 @@ ZCZC W03 20 L07 Demo related
 ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04 30 L14 Assignment #04
 ZCZC W04 30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W04 30 L64 Helping a friend (OS related problem)
