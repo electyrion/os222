@@ -35,6 +35,12 @@ Have you ever wonder why we need continuous patching to ensure the security of o
 7. [File System Interface PPT](https://staff.ui.ac.id/system/files/users/moningka/material/file-10b.pdf)<br>
 This is powerpoint file from OS course in the past. I think its better than our current powerpoint.
 
+8. [Pointer in C/C++ Full Course](https://www.youtube.com/watch?v=zuegQmMdy8M)<br>
+Best explanation on pointers ever! The material is comprehensive, well-thought out and superbly structured. All of my implicit questions (i.e. "I know that  I don't understand something, just not know what") are vanishing rapidly
+
+9. [How to Create a Simple Makefile - Introduction to Makefiles](https://www.youtube.com/watch?v=_r7i5X0rXJk)<br>
+This is probably one of the best tutorials on youtube or in general for make files just for the basics.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
