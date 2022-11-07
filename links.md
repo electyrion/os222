@@ -62,7 +62,7 @@ Great article with in-depth concepts for this week's material.
 12. [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
 In most of the computer applications multiprogramming and multi threading are used to improve the response time of the system while performing multiple operations or programs. Multiprogramming is a method of running multiple programs over a single processor by sharing the processor time in the time sharing environment. While multithreading is the process of running multiple threads to execute concurrently, supported by operating system.
 
-13. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14https://www.youtube.com/watch?v=cex9XrZCU14)<br>
+13. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
 This series is a treasure trove for CS students who are studying OS courses.
 
 <br>
