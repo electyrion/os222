@@ -65,6 +65,14 @@ In most of the computer applications multiprogramming and multi threading are us
 13. [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
 This series is a treasure trove for CS students who are studying OS courses.
 
+## Week 07
+
+14. [What are Race Conditions?](https://www.youtube.com/watch?v=FY9livorrJI)<br>
+Never seen race conditions broken down pragmatically like this in my life. Very clear explanation and a great course in total!
+
+16. [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)<br>
+I thought this is some boring problem computer scientistis made up, but then I realize that 1) there could be a deadlock for naive implementation 2) there are many different ways to address the deadlock 3) different solutions have different pro and cons under different metrics. One of the most Important and famous problem with easiest solution.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
