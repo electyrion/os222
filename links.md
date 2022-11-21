@@ -73,6 +73,14 @@ Never seen race conditions broken down pragmatically like this in my life. Very 
 16. [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)<br>
 I thought this is some boring problem computer scientistis made up, but then I realize that 1) there could be a deadlock for naive implementation 2) there are many different ways to address the deadlock 3) different solutions have different pro and cons under different metrics. One of the most Important and famous problem with easiest solution.
 
+## Week 08
+
+17. [Linux from Scratch First Impressions: Waste Of Time?](https://www.youtube.com/watch?v=1eOdaXS-wVE&t=105s)<br>
+Linux from Scratch is interesting in the scenario of compiling for specific CPU complete system. Interesting how performance would turn out. The only thing that's difficult with LFS is that you don't rely on a package manager. You ARE the Package Manager.
+
+18. [How to Build Linux From Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)<br>
+If you had difficulty or just lazy to read all the documentation in the text book, you can watch this playlist instead. This playlist will guide you through installing LFS step by step.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
